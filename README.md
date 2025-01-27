@@ -1,2 +1,2 @@
 # First-Repository
-This is my first Repository. <br> author:- Sambhaji Ughade.
+This is my first Repository. <br> author:- Sambhaji Pandurang Ughade.
